@@ -231,7 +231,7 @@ let cards = [
   {
     artName: 'Animatron1',
     pageLink: './Art/Animatron1/index.html',
-    imageLink: './Art/Animatron1/index.gif',
+    imageLink: './Art/Animatron1/ghost.gif',
     author: 'Marcin',
     githubLink: 'https://github.com/Marcin-podgorski93'
   },
