@@ -227,6 +227,15 @@ let cards = [
     author: "Blessing Mutava",
     githubLink: "https://github.com/MaKloudz",
   },
+
+  {
+    artName: 'Animatron1',
+    pageLink: './Art/Animatron1/index.html',
+    imageLink: './Art/Animatron1/index.gif',
+    author: 'Marcin',
+    githubLink: 'https://github.com/Marcin-podgorski93'
+  },
+
   {
     artName: "animatron",
     pageLink: "./Art/animatron/index.html",
